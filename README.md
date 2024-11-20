@@ -1,4 +1,4 @@
-# Learning-Tools
+# Learning Tools
 This repository contains tools and resources to make learning easier.
 
 ## [QC and Qiskit Study Tracker](https://github.com/quantum-kittens/Learning-Tools/blob/main/QC_and_Qiskit_Study_Tracker.xlsx)
