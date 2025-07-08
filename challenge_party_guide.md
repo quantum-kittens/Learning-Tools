@@ -4,6 +4,7 @@ Challenge parties are local, in-person gatherings where you can bring together e
 
 Here, we provide some ideas, inspiration, and guidance on how you can potentially organize a challenge party in your local institution. Remember: these are simply suggestions, feel free to adapt any ideas to suit your needs and to get creative! 
 
+![Images from Qiskit Camp Africa](imgs/Qiskit_Camp_Africa.png)
 
 ## Challenge Party Formats
 
